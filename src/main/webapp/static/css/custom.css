@@ -1,0 +1,40 @@
+.form-container {
+  position:fiexd;
+  width:50%;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #E8E1E1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.floatRight{
+	float:right;
+	/* margin-right: 18px; */
+}
+
+.floatRightMargin{
+	float:right;
+	margin-right: 18px;
+}
+
+.has-error{
+	color: #B88B40;
+}
+
+table.dataTable.dtr-inline.collapsed tbody td:first-child:before, table.dataTable.dtr-inline.collapsed tbody th:first-child:before{
+	background-color: #314A51!important;
+}
+
+.success{
+  position:fiexd;
+  width:50%;
+  margin-left: 50px;
+  margin-top:20px;
+  padding: 20px;
+  background-color: #E8E1E1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
